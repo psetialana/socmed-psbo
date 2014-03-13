@@ -1,0 +1,3 @@
+[submodule "api/api-kota"]
+	path = api/api-kota
+	url = https://github.com/gedelumbung/SlimRESTApi
