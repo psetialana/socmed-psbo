@@ -41,7 +41,7 @@ $app->get('/', function() {
     echo "5. Mengakses data berdasarkan kode provinsi (GET) : <a href='http://localhost/socmed-psbo/api/api-kota/city/d2ba5ac651d985a7fad886044d92b5cd/51'>http://localhost/socmed-psbo/api/api-kota/city/d2ba5ac651d985a7fad886044d92b5cd/51</a><br/>";
     echo "6. Menambah data dengan Advanced Rest Client (POST) lihat gambar <br/> <img src='img/post.png'/></br/>"; 
     echo "7. Mengubah data dengan Advanced Rest Client (PUT) lihat gambar <br/> <img src='img/put.png'/></br/>";
-    echo "8. Menghapus data dengan Advanced Rest Client (PUT) lihat gambar <br/> <img src='img/delete.png'/></br/>";
+    echo "8. Menghapus data dengan Advanced Rest Client (DELETE) lihat gambar <br/> <img src='img/delete.png'/></br/>";
     echo "<a href='http://gedelumbung.com/slim-framework-tutorial-membuat-restful-api-sederhana-dengan-slim-framework/'>klik untuk mengetahui cara mennggunakan API ini lebih detail</a><br/>";
 
 });
